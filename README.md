@@ -20,4 +20,4 @@ Burnx adalah aplikasi deteksi otomatis derajat luka bakar (tingkat 1 sampai 4) m
 
 > **Note:** Karena aplikasi dihosting menggunakan Streamlit Community Cloud (free tier), aplikasi bisa dalam kondisi sleep. Jika muncul tombol “Yes, get this app back up!”, klik tombol tersebut untuk membangunkan aplikasi.
 
-🌐 [Link ke Aplikasi](https://your-app-url.streamlit.app)
+🌐 [Link Demo Aplikasi](https://burnx-detect.streamlit.app/)
